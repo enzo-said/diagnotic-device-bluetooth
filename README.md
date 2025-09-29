@@ -2,6 +2,7 @@
 
 
     Projet d’apprentissage système embarqué
+    
     Analyse complète de la compatibilité Linux d’un adaptateur TP-Link Bluetooth 5.4 USB (ID 2357:0604).
     De lsusb à dmesg, en passant par le firmware Realtek et la pile BlueZ — une plongée technique dans le fonctionnement des périphériques USB sous Linux.
 
