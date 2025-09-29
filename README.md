@@ -1,1 +1,1 @@
-# diagnotic-device-bluetooth
+# diagnostic-device-bluetooth
